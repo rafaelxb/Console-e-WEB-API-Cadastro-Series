@@ -1,0 +1,12 @@
+C:\Users\RafaelB\Desktop\Curso Programação\Dio\BootCamp GFT .NET\CRUD Séries\R.Series\obj\Debug\net5.0\R.Series.csproj.AssemblyReference.cache
+C:\Users\RafaelB\Desktop\Curso Programação\Dio\BootCamp GFT .NET\CRUD Séries\R.Series\obj\Debug\net5.0\R.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaelB\Desktop\Curso Programação\Dio\BootCamp GFT .NET\CRUD Séries\R.Series\obj\Debug\net5.0\R.Series.AssemblyInfoInputs.cache
+C:\Users\RafaelB\Desktop\Curso Programação\Dio\BootCamp GFT .NET\CRUD Séries\R.Series\obj\Debug\net5.0\R.Series.AssemblyInfo.cs
+C:\Users\RafaelB\Desktop\Curso Programação\Dio\BootCamp GFT .NET\CRUD Séries\R.Series\obj\Debug\net5.0\R.Series.csproj.CoreCompileInputs.cache
+C:\Users\RafaelB\Desktop\Curso Programação\Dio\BootCamp GFT .NET\CRUD Séries\R.Series\bin\Debug\net5.0\R.Series.deps.json
+C:\Users\RafaelB\Desktop\Curso Programação\Dio\BootCamp GFT .NET\CRUD Séries\R.Series\bin\Debug\net5.0\R.Series.dll
+C:\Users\RafaelB\Desktop\Curso Programação\Dio\BootCamp GFT .NET\CRUD Séries\R.Series\bin\Debug\net5.0\ref\R.Series.dll
+C:\Users\RafaelB\Desktop\Curso Programação\Dio\BootCamp GFT .NET\CRUD Séries\R.Series\bin\Debug\net5.0\R.Series.pdb
+C:\Users\RafaelB\Desktop\Curso Programação\Dio\BootCamp GFT .NET\CRUD Séries\R.Series\obj\Debug\net5.0\R.Series.dll
+C:\Users\RafaelB\Desktop\Curso Programação\Dio\BootCamp GFT .NET\CRUD Séries\R.Series\obj\Debug\net5.0\ref\R.Series.dll
+C:\Users\RafaelB\Desktop\Curso Programação\Dio\BootCamp GFT .NET\CRUD Séries\R.Series\obj\Debug\net5.0\R.Series.pdb
